@@ -2,13 +2,13 @@
 
 ## Создание «информационной системы для предварительного бронирования билетов».
 
+- Ссылка на проект: https://daveinard.github.io/js-cp-diploma-edited/#
+- Технологии в проекте: HTML, CSS, JavaScript, Git;
+
 ### Студенту предоставляются следующие компоненты системы:
 
 - [Верстка](./sources/layout.zip)
 - [Backend](./md/backend.md)
-
-- Ссылка на проект: https://daveinard.github.io/js-cp-diploma-edited/#
-- Технологии в проекте: HTML, CSS, JavaScript, Git;
 
 ## Задача
 
